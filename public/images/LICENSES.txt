@@ -1,0 +1,45 @@
+FORMA X template — sample image licenses
+==========================================
+
+These photographs are demo placeholders. They are not projects by FORMA X
+or by any client of this template. Replace every file in this folder before
+launching a real studio website.
+
+Source: Unsplash, https://unsplash.com/license
+
+The Unsplash License allows use of the photos for free, including commercial
+use. It does not allow selling the photos themselves as stock, or compiling
+them for resale as a standalone photo product. This template includes them
+only as preview imagery. Buyers must replace them for a client launch.
+
+Files and source URLs:
+
+- hero-main.jpg
+  https://unsplash.com/photos/1600585154340-be6161a56a0c
+- hero-secondary.jpg
+  https://unsplash.com/photos/1600210492486-724fe5c67fb0
+- project-monolith.jpg
+  https://unsplash.com/photos/1600596542815-ffad4c1539a9
+- project-monolith-2.jpg
+  https://unsplash.com/photos/1600585154526-990dced4db0d
+- project-quiet.jpg
+  https://unsplash.com/photos/1618221195710-dd6b41faaea6
+- project-quiet-2.jpg
+  https://unsplash.com/photos/1616486338812-3dadae4b4ace
+- project-office.jpg
+  https://unsplash.com/photos/1497366216548-37526070297c
+- project-office-2.jpg
+  https://unsplash.com/photos/1497366811353-6870744d04b2
+- cinematic.jpg
+  https://unsplash.com/photos/1600607687939-ce8a6c25118c
+- service-architecture.jpg
+  https://unsplash.com/photos/1487958449943-2429e8be8625
+- service-interior.jpg
+  https://unsplash.com/photos/1618220179428-22790b461013
+- service-renovation.jpg
+  https://unsplash.com/photos/1503387762-592deb58ef4e
+- material.jpg
+  https://unsplash.com/photos/1600566753086-00f18fb6b3ea
+
+Unsplash photo IDs are the numeric portion of each image URL.
+Photographer names are listed on each Unsplash photo page.
